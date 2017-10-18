@@ -13,7 +13,7 @@ h2 {
   font-style: italic;
 }
 
-#tasks .completed>li {
+#tasks .completed > li {
   font-family: 12px;
 }
 
