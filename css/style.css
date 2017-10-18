@@ -2,7 +2,7 @@ body {
   background: pink;
 {
 
-h1 #title {
+#title {
   color: blue;
   fontsize: 3em;
 }
