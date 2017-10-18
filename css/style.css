@@ -2,12 +2,12 @@ body {
   background: pink;
 {
 
-#title h1 {
+h1 {
   color: blue;
   fontsize: 3em;
 }
 
-html h2 {
+h2 {
   color: green;
   font-weight: normal;
   font-style: italic;
